@@ -1,0 +1,9 @@
+1] codes of:- 
+fib
+fact 
+prime
+odd nos. upto hundred
+exponential
+
+2] make a contact book using dictionary
+

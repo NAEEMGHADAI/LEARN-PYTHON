@@ -1,0 +1,7 @@
+1] There is a full support for floating point 
+eg:- >>6*3.75-1
+	21.5
+
+2] string is immuteable[1. an object with fixed value] 
+[2.immutable value includes int,string,tuples such an object cannot be altered.]
+

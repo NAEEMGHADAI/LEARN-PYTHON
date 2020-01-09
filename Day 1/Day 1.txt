@@ -1,0 +1,26 @@
+>>> print('NAEEM')
+NAEEM
+>>> X=5
+>>> Y=10
+>>> Z=X+Y
+>>> print('Z')
+Z
+>>> print(Z)
+15
+>>> ^Z
+
+
+C:\Users\naeem noman>
+
+
+>>> x=10;\
+... y=10;\
+... z=x+y;\
+... print(z)
+20
+>>> ^Z
+
+
+C:\Users\naeem noman>
+
+
